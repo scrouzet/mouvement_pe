@@ -1,0 +1,12 @@
+name: mouvementPE
+title: mouvementPE
+username:
+account: scrouzet
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 316516
+bundleId: 3066931
+url: https://scrouzet.shinyapps.io/mouvementPE/
+when: 1587905066.41738
+asMultiple: FALSE
+asStatic: FALSE
