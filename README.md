@@ -1,3 +1,5 @@
+Lien vers la carte avec les postes de Maternelle pour l'année 2020: https://scrouzet.shinyapps.io/mouvementPE/
+
 Ce code permet d'extraire automatiquement les données du fichier pdf du mouvement publié chaque année par l'Education Nationale pour les profs des écoles en Haute-Garonne (31). La carte contient un repère par école (maternelles et élémentaires).
 
 Quand on clique sur un repère, on peut accèder aux informations extraites du pdf pour cette école.
